@@ -55,6 +55,7 @@ a{
 .link-menu:hover{
 	font-weight: 900;
 	color: orange;
+	transition-duration: 350ms;
 }
 .menu:hover .menu-here{
 	transform: translateX(90%);
