@@ -51,10 +51,11 @@ a {
 }
 .link-menu {
 	color: white;
+	transition-duration: 0.8s;
 }
 .link-menu:hover {
-	font-weight: 900;
 	color: orange;
+	transition-duration: 0.8s;
 }
 .menu-title {
 	opacity: 1;
