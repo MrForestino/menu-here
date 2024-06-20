@@ -11,7 +11,7 @@ a {
 .menu {
 	width: 20%;
 	height: 500px;
-	transform: translateX(-80%);
+	transform: translateX(-90%);
 	transition: 0.4s ease-in-out;
 }
 .menu-here {
@@ -62,7 +62,7 @@ a {
 	transition: opacity 0.4s ease-in-out, visibility 0.4s ease-in-out;
 }
 .menu:hover .menu-here {
-	transform: translateX(80%);
+	transform: translateX(90%);
 	transition: 0.4s ease-in-out;
 }
 .menu:hover .menu-title {
